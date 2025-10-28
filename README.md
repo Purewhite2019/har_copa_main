@@ -128,7 +128,7 @@ xtuner convert pth_to_hf ./config/${SFT_TASK_NAME}.py ./work_dirs/${SFT_TASK_NAM
 
 ### Inference
 #### Model Deployment
-Please download model checkpoints from [🤗NeurIPS25 HAR & CoPA](https://huggingface.co/collections/purewhite42/har-and-copa).
+Please download model checkpoints from [🤗Huggingface Collection](https://huggingface.co/collections/purewhite42/har-and-copa).
 We recommend using [vLLM](https://github.com/vllm-project/vllm) to serve the models locally.
 ```shell
 # NPU
