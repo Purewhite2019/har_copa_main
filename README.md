@@ -1,4 +1,4 @@
-# NeurIPS'25 HAR & CoPA
+# HAR & CoPA
 Official implementation for the paper:
 
 **[NeurIPS'25] Bootstrapping Hierarchical Autoregressive Formal Reasoner with Chain-of-Proxy-Autoformalization**
@@ -11,7 +11,7 @@ Shanghai Innovation Institute
 
 (∗Corresponding author)
 
-[🤗Collection](https://huggingface.co/collections/purewhite42/neurips25-har-and-copa)
+[🤗Collection](https://huggingface.co/collections/purewhite42/har-and-copa)
 [📃Paper](https://openreview.net/pdf?id=2Xn8h68mP3)
 
 ## Quick Start
@@ -128,7 +128,7 @@ xtuner convert pth_to_hf ./config/${SFT_TASK_NAME}.py ./work_dirs/${SFT_TASK_NAM
 
 ### Inference
 #### Model Deployment
-Please download model checkpoints from [🤗NeurIPS25 HAR & CoPA](https://huggingface.co/collections/purewhite42/neurips25-har-and-copa).
+Please download model checkpoints from [🤗NeurIPS25 HAR & CoPA](https://huggingface.co/collections/purewhite42/har-and-copa).
 We recommend using [vLLM](https://github.com/vllm-project/vllm) to serve the models locally.
 ```shell
 # NPU
