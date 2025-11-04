@@ -64,7 +64,7 @@ We recommend using [elan](https://github.com/leanprover/elan) to manage Lean ver
 | **Name**                                                            | **Version**                          |
 |-----------------------------------------------------------------|------------------------------------------|
 | [Lean 4](https://github.com/leanprover/lean4)                 | v4.15.0                                |
-| [Pantograph](https://github.com/leanprover-community/repl)            | v0.2.25 |
+| [Pantograph](https://github.com/leanprover/Pantograph)            | v0.2.25 |
 | [Mathlib 4](https://github.com/leanprover-community/mathlib4) | v4.15.0 |
 
 ### Environment Setting
